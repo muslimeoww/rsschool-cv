@@ -7,7 +7,7 @@
 - [Github:](https://github.com/muslimeoww)
 - Discord: Tired of the routin
 ## About me
-*I am 21 years old, I am 21 years old, I continue to look for myself and learn new things for myself, I strive to work on my mistakes and work hard to achieve new results, so I decided to find new strength in myself and study at an RSS school.
+*I am 21 years old, I am 21 years old, I continue to look for myself and learn new things for myself, I strive to work on my mistakes and work hard to achieve new results, so I decided to find new strength in myself and study at an RSS school.*
 ## Hard skills
 - **Python**
 - **Django**
