@@ -4,7 +4,7 @@
     font-family: 'Orbitron';
     font-style: normal;
     font-weight: 400;
-    src: url(./fonts/orbitron-regular.ttf) format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+    src: url(./fonts/Orbitron-Regular.ttf) format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
   }
 body
 {
@@ -194,12 +194,13 @@ background: linear-gradient(270deg, transparent, #5e6fc5);
     align-items: center;
     justify-content: center;
     position: relative;
-    padding: 13%;
+    padding: 15%;
     overflow: hidden;
 
     }
 
-    
+
+
 .about_me {
     position: relative;
     text-align: center;
