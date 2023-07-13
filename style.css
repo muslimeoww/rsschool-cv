@@ -207,7 +207,7 @@ background: linear-gradient(270deg, transparent, #5e6fc5);
     vertical-align: middle;
     z-index: 1;
     color: #FFF;
-    
+    font-family: 'Orbitron';
     
 }
 .Contacts {
@@ -216,7 +216,7 @@ background: linear-gradient(270deg, transparent, #5e6fc5);
     vertical-align: middle;
     z-index: 1;
     color: #FFF;
-    
+    font-family: 'Orbitron'
     
 }
 .Skills {
@@ -225,7 +225,7 @@ background: linear-gradient(270deg, transparent, #5e6fc5);
     vertical-align: middle;
     z-index: 1;
     color: #FFF;
-    
+    font-family: 'Orbitron'
     
 }
 
