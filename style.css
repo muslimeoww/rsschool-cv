@@ -4,7 +4,7 @@
     font-family: 'Orbitron';
     font-style: normal;
     font-weight: 400;
-    src: url(./fonts/Orbitron-Regular.ttf) format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+    src: url('./fonts/Orbitron-Regular.ttf') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
   }
 body
 {
@@ -196,7 +196,7 @@ background: linear-gradient(270deg, transparent, #5e6fc5);
     position: relative;
     padding: 15%;
     overflow: hidden;
-
+    font-family: 'Orbitron'
     }
 
 
@@ -207,7 +207,7 @@ background: linear-gradient(270deg, transparent, #5e6fc5);
     vertical-align: middle;
     z-index: 1;
     color: #FFF;
-    font-family: 'Orbitron';
+    
     
 }
 .Contacts {
@@ -216,7 +216,7 @@ background: linear-gradient(270deg, transparent, #5e6fc5);
     vertical-align: middle;
     z-index: 1;
     color: #FFF;
-    font-family: 'Orbitron';
+    
     
 }
 .Skills {
@@ -225,7 +225,7 @@ background: linear-gradient(270deg, transparent, #5e6fc5);
     vertical-align: middle;
     z-index: 1;
     color: #FFF;
-    font-family: 'Orbitron';
+    
     
 }
 
