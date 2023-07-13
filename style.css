@@ -182,9 +182,19 @@ background: linear-gradient(270deg, transparent, #5e6fc5);
 
 .container .down_side {
     position: relative;
-    background: #c8d369;
+    background: #abff3e;
     padding: 23%;
     }
+    
+.container .down_side2 {
+    position: relative;
+    background: #00fff2;
+    padding: 23%;
+    }
+
+
+
+
 .container .down_futer {
     display: flex;
     justify-content: space-between;
